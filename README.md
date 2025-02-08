@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Subramanya Rao</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🌱 I’m currently learning **graphql**
+- 🌱 I’m currently working on a **challenge**
 
-- 💬 Ask me about **php, nodejs, python**
+- 💬 Ask me about **php, js, python**
 
 - 📫 How to reach me **bkrsubbu@yahoo.com**
 
